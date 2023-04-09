@@ -1,0 +1,21 @@
+{
+    "name": "rahisi/rahisi-db",
+    "description": "this is database quering function",
+    "type": "library",
+    "require": {
+        "php": "^8.1.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rahisi\\RahisiDb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joshtheone",
+            "email": "joshtheone70@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
