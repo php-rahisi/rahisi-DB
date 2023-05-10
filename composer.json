@@ -3,7 +3,7 @@
     "description": "this is database quering function",
     "type": "library",
     "require": {
-        "php": "^8.1.6"
+        "php": "^8.0.25"
     },
     "license": "MIT",
     "autoload": {
